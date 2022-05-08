@@ -4,11 +4,11 @@ Hi 👋 My name is itszw
 Script Developer(LUA)
 ---------------------
 
-Burayı Yazamam
+I'm based in roblox cheats LUA
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning Pythom
-* ⚡  i'am a Roblox cheat script developer
+* ⚡  Executor Synapse X
 
 <a href="https://www.github.com/itszw" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itszw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/itszw" target="_blank" rel="noreferrer"><img

@@ -6,7 +6,6 @@ Script Developer(LUA)
 
 * ❤   I'm based in roblox cheats
 
-* 🌍  I'm based in Spainsh
 * 🧠  I'm learning Pythom
 * ⚡  Executor Synapse X
 
